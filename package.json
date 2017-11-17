@@ -1,0 +1,22 @@
+{
+  "name": "react-native-background-location",
+  "version": "0.1.0",
+  "description": "react native background location use amap sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/laoqiu/react-native-background-location.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "background",
+    "location",
+    "amap"
+  ],
+  "author": "laoqiu.com@gmail.com",
+  "license": "MIT"
+}
